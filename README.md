@@ -1,4 +1,5 @@
 # Ringbuffer
+[![Build Status](https://secure.travis-ci.org/gypkg/ringbuffer.svg)](http://travis-ci.org/gypkg/ringbuffer)
 
 Primitive ringbuffer implementation for [bud][0]. Can be used with [gypkg][1].
 
