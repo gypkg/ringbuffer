@@ -4,7 +4,7 @@
   "private": true,
   "keywords": [],
   "scripts": {
-    "test": "gypkg build && ./out/Release/test"
+    "test": "gypkg build && ./out/Release/ringbuffer-test"
   },
   "author": "Fedor Indutny <fedor@indutny.com>",
   "license": "MIT",

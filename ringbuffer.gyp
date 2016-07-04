@@ -9,7 +9,7 @@
       "ringbuffer.c",
     ],
   }, {
-    "target_name": "test",
+    "target_name": "ringbuffer-test",
     "type": "executable",
     "dependencies": [ "ringbuffer" ],
     "sources": [ "test.c" ],
